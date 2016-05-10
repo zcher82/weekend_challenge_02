@@ -1,0 +1,17 @@
+.person {
+  border: 1px solid black;
+  margin: 2px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+}
+
+.personRed {
+  border: 1px solid black;
+  margin: 2px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
